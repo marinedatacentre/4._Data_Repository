@@ -1,3 +1,10 @@
+---
+title: "346-10 Erddap  installation"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\346 ERDDAP\346-10 Erddap  installation.docx"
+review_period: "3 years"
+created_by: "Terry Curran"
+---
+
 **Purpose:**
 
 To install ERDDAP (the NOAA Environmental Research Division's Data Access Program) on a suitable server as a service (daemon). ERDDAP is a data server that gives you a simple, consistent way to download subsets of gridded and tabular scientific datasets in common file formats and make graphs and maps.

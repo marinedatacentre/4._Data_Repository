@@ -1,3 +1,10 @@
+---
+title: "346-F60 DasDds documentation"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\346 ERDDAP\346-F60 DasDds documentation.docx"
+review_period: "3 years"
+created_by: "None"
+---
+
 [**DasDds**](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#DasDds) is a command line program that you can use after you have created a first attempt at the XML for a new dataset in datasets.xml. With DasDds, you can repeatedly test and refine the XML. When you use the DasDds program:
 
 - On Windows, the first time you run DasDds, you need to edit the DasDds.bat file with a text editor to change the path to the java.exe file so that Windows can find Java.

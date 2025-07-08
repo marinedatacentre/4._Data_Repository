@@ -1,3 +1,10 @@
+---
+title: "_370 Geospatial Metadata and Data Administration"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\_370 Geospatial Metadata and Data Administration.docx"
+review_period: "3 years"
+created_by: "Peter"
+---
+
 **Purpose:**
 
 This document is a step-by-step guide explaining how an individual can perform tasks such as entering metadata as xml and as mef, checking the validity of the loaded metadata, adding optional extras such as thumbnails and hyperlinks.

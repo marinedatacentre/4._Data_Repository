@@ -1,3 +1,10 @@
+---
+title: "370-01 Data processing for Data Centre"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-01 Data processing for Data Centre.docx"
+review_period: "3 years"
+created_by: "Peter"
+---
+
 **Purpose:**
 
 This document describes the production of data files for inclusion in a geospatial data management system. The intent is to have a documented and traceable list of changes that can be examined by others. This lineage process results in version control, lack of ambiguity, confidence in the resulting product, and is consistent with international metadata documentation.

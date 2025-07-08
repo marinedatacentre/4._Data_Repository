@@ -1,3 +1,10 @@
+---
+title: "SGDC_DataRepository_Directory_240228"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\SGDC_DataRepository_Directory_240228.docx"
+review_period: "3 years"
+created_by: "Paulina Salinas Ruiz"
+---
+
 **<u>Contents</u>**
 
 <table style="width:89%;">

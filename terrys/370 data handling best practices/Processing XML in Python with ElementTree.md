@@ -1,3 +1,10 @@
+---
+title: "Processing XML in Python with ElementTree"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\Processing XML in Python with ElementTree.docx"
+review_period: "3 years"
+created_by: "Terry Curran"
+---
+
 **Processing XML in Python with ElementTree**
 
 **Eli Bendersky,** March 15, 2012 at 06:14

@@ -1,3 +1,10 @@
+---
+title: "370-F20 Linux FOR Loop scripting"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F20 Linux FOR Loop scripting.docx"
+review_period: "3 years"
+created_by: "None"
+---
+
 # Loop Through the Lines of a File: Bash For Loop Explained (https://codefather.tech/blog/bash-loop-through-lines-file/)
 
 [Claudio Sabato](https://codefather.tech/author/sabato-claudio/) [Blog](https://codefather.tech/category/blog/)

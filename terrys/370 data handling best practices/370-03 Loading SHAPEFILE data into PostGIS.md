@@ -1,3 +1,10 @@
+---
+title: "370-03 Loading SHAPEFILE data into PostGIS"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-03 Loading SHAPEFILE data into PostGIS.docx"
+review_period: "3 years"
+created_by: "Peter"
+---
+
 **Purpose:**
 
 This document describes how to add Shapefile data to PostGIS located on a remote computer using the Linux operating system, for subsequent use as a spatial layer in GeoServer. Data is often organized as a table, and shapefile is often regarded as the easiest format for data exchange. An alternative is to create the file in CSV format, and load that.

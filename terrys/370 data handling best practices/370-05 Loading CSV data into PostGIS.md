@@ -1,3 +1,10 @@
+---
+title: "370-05 Loading CSV data into PostGIS"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-05 Loading CSV data into PostGIS.docx"
+review_period: "3 years"
+created_by: "Peter"
+---
+
 **Purpose:**
 
 This document describes how to add CSV data to PostGIS located on a remote computer using the Linux operating system, for subsequent use as a spatial layer in GeoServer. Data is often organized as a table, and CSV is a useful exchange format. An alternative is to create the file in shape format, and load that.

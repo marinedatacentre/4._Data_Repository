@@ -1,3 +1,10 @@
+---
+title: "370-F35 PostgreSQL LEAD() and ROW_NUMBER()"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F35 PostgreSQL LEAD() and ROW_NUMBER().docx"
+review_period: "3 years"
+created_by: "None"
+---
+
 # **PostgreSQL LEAD Function**
 
 **Summary**: in this tutorial, you will learn how to use the PostgreSQL LEAD() function to access a row that follows the current row, at a specific physical offset.

@@ -1,3 +1,10 @@
+---
+title: "370-07 Creating and Styling a GeoServer Layer"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-07 Creating and Styling a GeoServer Layer.docx"
+review_period: "3 years"
+created_by: "Peter"
+---
+
 **Purpose:**
 
 This document describes how to add a simple spatial layer in GeoServer. The intention is to quickly expose a data layer for use by GeoNetwork. This will be linked from a metadata record stored in GeoNetwork.

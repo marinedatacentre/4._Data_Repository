@@ -1,3 +1,10 @@
+---
+title: "640-01_DarwinCoreIntro_250128"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\640_Darwin_Core\640-01_DarwinCoreIntro_250128.docx"
+review_period: "3 years"
+created_by: "Paulina Salinas Ruiz"
+---
+
 **Purpose:**
 
 The purpose of this process is to provide a systematic approach for converting any dataset into the Darwin Core (DwC) format, ensuring data are standardized, interoperable, and ready for sharing and integration within biodiversity and ecological research frameworks.

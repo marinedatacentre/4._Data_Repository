@@ -1,3 +1,10 @@
+---
+title: "370-F04  shp2pgsql and pgsql2shp cheat sheet"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F04  shp2pgsql and pgsql2shp cheat sheet.docx"
+review_period: "3 years"
+created_by: "Terry Curran"
+---
+
 <table>
 <colgroup>
 <col style="width: 100%" />

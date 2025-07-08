@@ -1,3 +1,10 @@
+---
+title: "370-F08 create dem from topography and bathymetry"
+source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F08 create dem from topography and bathymetry.docx"
+review_period: "3 years"
+created_by: "Peter"
+---
+
 **Purpose:**
 
 This document describes how to create a digital terrain model (dem) from topography and non-navigation bathymetry downloaded form the open.canada.ca website.
