@@ -3,6 +3,8 @@ title: "346-F30 Working with the datasets.xml File"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\346 ERDDAP\346-F30 Working with the datasets.xml File.docx"
 review_period: "3 years"
 created_by: "Terry Curran"
+created: "2021-10-18"
+modified: "2021-10-18"
 ---
 
 <table>

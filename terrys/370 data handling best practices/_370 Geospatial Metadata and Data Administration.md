@@ -3,6 +3,8 @@ title: "_370 Geospatial Metadata and Data Administration"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\_370 Geospatial Metadata and Data Administration.docx"
 review_period: "3 years"
 created_by: "Peter"
+created: "2014-05-09"
+modified: "2019-09-10"
 ---
 
 **Purpose:**

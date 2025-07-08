@@ -3,6 +3,8 @@ title: "370-F03 Useful Metadata Snippets"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F03 Useful Metadata Snippets.docx"
 review_period: "3 years"
 created_by: "Terry Curran"
+created: "2021-01-26"
+modified: "2021-01-26"
 ---
 
 340-F03

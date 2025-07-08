@@ -2,7 +2,9 @@
 title: "346-F60 DasDds documentation"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\346 ERDDAP\346-F60 DasDds documentation.docx"
 review_period: "3 years"
-created_by: "None"
+created_by: "Unknown"
+created: "2021-11-03"
+modified: "2021-11-03"
 ---
 
 [**DasDds**](https://coastwatch.pfeg.noaa.gov/erddap/download/setupDatasetsXml.html#DasDds) is a command line program that you can use after you have created a first attempt at the XML for a new dataset in datasets.xml. With DasDds, you can repeatedly test and refine the XML. When you use the DasDds program:

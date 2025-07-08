@@ -3,6 +3,8 @@ title: "370-F09 From Excel to KML via XML export"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F09 From Excel to KML via XML export.docx"
 review_period: "3 years"
 created_by: "Terry Curran"
+created: "2016-04-01"
+modified: "2019-09-10"
 ---
 
 **340-F09**

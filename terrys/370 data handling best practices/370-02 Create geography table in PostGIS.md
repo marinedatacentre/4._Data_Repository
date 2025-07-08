@@ -3,6 +3,8 @@ title: "370-02 Create geography table in PostGIS"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-02 Create geography table in PostGIS.docx"
 review_period: "3 years"
 created_by: "Peter"
+created: "2017-01-03"
+modified: "2022-06-02"
 ---
 
 **Purpose:**

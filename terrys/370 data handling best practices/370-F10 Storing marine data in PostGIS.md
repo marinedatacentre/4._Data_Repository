@@ -3,6 +3,8 @@ title: "370-F10 Storing marine data in PostGIS"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F10 Storing marine data in PostGIS.docx"
 review_period: "3 years"
 created_by: "Terry Curran"
+created: "2015-12-01"
+modified: "2019-09-10"
 ---
 
 340-F10

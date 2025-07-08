@@ -3,6 +3,8 @@ title: "370-F01 ctd sql queries"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F01 ctd sql queries.docx"
 review_period: "3 years"
 created_by: "Terry Curran"
+created: "2021-08-19"
+modified: "2022-11-07"
 ---
 
 # Table of Contents

@@ -3,6 +3,8 @@ title: "370-03 Loading SHAPEFILE data into PostGIS"
 source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-03 Loading SHAPEFILE data into PostGIS.docx"
 review_period: "3 years"
 created_by: "Peter"
+created: "2018-12-11"
+modified: "2021-10-27"
 ---
 
 **Purpose:**
