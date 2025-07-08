@@ -1,10 +1,10 @@
 ---
-title: "370-F20 Linux FOR Loop scripting"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F20 Linux FOR Loop scripting.docx"
-review_period: "3 years"
-created_by: "Unknown"
-created: "2021-11-06"
-modified: "2021-11-06"
+process_number: 370-F20
+title: Linux FOR Loop scripting
+author: Unknown
+created: 2021-11-06
+modified: 2021-11-06
+review_period: 3 years
 ---
 
 # Loop Through the Lines of a File: Bash For Loop Explained (https://codefather.tech/blog/bash-loop-through-lines-file/)

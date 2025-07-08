@@ -1,10 +1,10 @@
 ---
-title: "370-F35 PostgreSQL LEAD() and ROW_NUMBER()"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F35 PostgreSQL LEAD() and ROW_NUMBER().docx"
-review_period: "3 years"
-created_by: "Unknown"
-created: "2022-10-15"
-modified: "2022-10-15"
+process_number: 370-F35
+title: PostgreSQL LEAD() and ROW_NUMBER()
+author: Unknown
+created: 2022-10-15
+modified: 2022-10-15
+review_period: 3 years
 ---
 
 # **PostgreSQL LEAD Function**

@@ -1,10 +1,10 @@
 ---
-title: "370-F08 create dem from topography and bathymetry"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F08 create dem from topography and bathymetry.docx"
-review_period: "3 years"
-created_by: "Peter"
-created: "2014-11-29"
-modified: "2019-09-10"
+process_number: 370-F08
+title: create dem from topography and bathymetry
+author: Peter
+created: 2014-11-29
+modified: 2019-09-10
+review_period: 3 years
 ---
 
 **Purpose:**

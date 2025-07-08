@@ -1,10 +1,10 @@
 ---
-title: "370-01 Data processing for Data Centre"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-01 Data processing for Data Centre.docx"
-review_period: "3 years"
-created_by: "Peter"
-created: "2017-10-10"
-modified: "2022-06-02"
+process_number: 370-01
+title: Data processing for Data Centre
+author: Peter
+created: 2017-10-10
+modified: 2022-06-02
+review_period: 3 years
 ---
 
 **Purpose:**

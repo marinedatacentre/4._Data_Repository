@@ -1,10 +1,10 @@
 ---
-title: "370-F06 creating geoserver maps in kml with legend"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F06 creating geoserver maps in kml with legend.docx"
-review_period: "3 years"
-created_by: "Terry Curran"
-created: "2018-08-15"
-modified: "2019-09-10"
+process_number: 370-F06
+title: creating geoserver maps in kml with legend
+author: Terry Curran
+created: 2018-08-15
+modified: 2019-09-10
+review_period: 3 years
 ---
 
 **340-F06**

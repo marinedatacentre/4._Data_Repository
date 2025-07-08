@@ -1,10 +1,10 @@
 ---
-title: "640-01_DarwinCoreIntro_250128"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\640_Darwin_Core\640-01_DarwinCoreIntro_250128.docx"
-review_period: "3 years"
-created_by: "Paulina Salinas Ruiz"
-created: "2025-01-16"
-modified: "2025-01-29"
+process_number: 640-01
+title: DarwinCoreIntro_250128
+author: Paulina Salinas Ruiz
+created: 2025-01-16
+modified: 2025-01-29
+review_period: 3 years
 ---
 
 **Purpose:**

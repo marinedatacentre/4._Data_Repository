@@ -1,10 +1,10 @@
 ---
-title: "346-10 Erddap  installation"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\346 ERDDAP\346-10 Erddap  installation.docx"
-review_period: "3 years"
-created_by: "Terry Curran"
-created: "2021-04-16"
-modified: "2021-12-25"
+process_number: 346-10
+title: Erddap  installation
+author: Terry Curran
+created: 2021-04-16
+modified: 2021-12-25
+review_period: 3 years
 ---
 
 **Purpose:**

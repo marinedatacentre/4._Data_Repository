@@ -1,10 +1,10 @@
 ---
-title: "370-05 Loading CSV data into PostGIS"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-05 Loading CSV data into PostGIS.docx"
-review_period: "3 years"
-created_by: "Peter"
-created: "2014-11-29"
-modified: "2023-10-02"
+process_number: 370-05
+title: Loading CSV data into PostGIS
+author: Peter
+created: 2014-11-29
+modified: 2023-10-02
+review_period: 3 years
 ---
 
 **Purpose:**

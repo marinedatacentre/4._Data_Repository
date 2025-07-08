@@ -1,10 +1,10 @@
 ---
-title: "SGDC_DataRepository_Directory_240228"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\SGDC_DataRepository_Directory_240228.docx"
-review_period: "3 years"
-created_by: "Paulina Salinas Ruiz"
-created: "2024-02-15"
-modified: "2025-01-30"
+process_number: SGDC
+title: DataRepository_Directory_240228
+author: Paulina Salinas Ruiz
+created: 2024-02-15
+modified: 2025-01-30
+review_period: 3 years
 ---
 
 **<u>Contents</u>**

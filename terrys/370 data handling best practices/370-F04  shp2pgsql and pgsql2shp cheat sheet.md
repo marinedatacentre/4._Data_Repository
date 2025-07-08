@@ -1,10 +1,10 @@
 ---
-title: "370-F04  shp2pgsql and pgsql2shp cheat sheet"
-source_file: "C:\Users\tchernen\handbook_docx\4_Data_Repository\terrys\370 data handling best practices\370-F04  shp2pgsql and pgsql2shp cheat sheet.docx"
-review_period: "3 years"
-created_by: "Terry Curran"
-created: "2018-12-11"
-modified: "2019-09-10"
+process_number: 370-F04
+title: shp2pgsql and pgsql2shp cheat sheet
+author: Terry Curran
+created: 2018-12-11
+modified: 2019-09-10
+review_period: 3 years
 ---
 
 <table>
